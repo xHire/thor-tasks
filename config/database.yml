@@ -1,0 +1,3 @@
+### SQLite
+adapter: sqlite3
+database: db/database.sqlite3
